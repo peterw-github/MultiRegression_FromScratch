@@ -17,6 +17,12 @@ From there, I trained the model using the randomly generated data, and compared 
 Overall, while the prediction model didn't come out perfect, the overall process of creating it, and rigorously going through the underlying mathematics, certainly did significantly improve my understanding of the core principles of machine learning in simple cases, and multivariable linear regression.
 
 
+The code for the overall project, can be found in "Regression_Code.ipynb" file, here: <br>
+https://github.com/peterw-github/MultiRegression_FromScratch
+
+
+
+
 <br>
 <br>
 <br>
