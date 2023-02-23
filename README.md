@@ -8,7 +8,7 @@ The purpose of this project, was to get a solid understanding of a simple machin
 
 So, to accomplish this, I first went through all of the underlying mathematics. 
 
-Then, I created a completely made up, linear relationship between a bunch of independent variables (x0, x1, ..., x11), and a dependent variable (y). The coefficients, the constant at the end (k), and the independent variable data (the instances), were all randomly generated. 
+Then, I created a completely made up, linear relationship between a bunch of independent variables (12 specifically, x0, x1, ..., x11, but this can be changed in the code), and a dependent variable (y). The coefficients, the constant at the end (k), and the independent variable data (the instances), were all randomly generated. 
 
 I then created a machine learning model, with randomly generated weights (w0, w1, ..., w11), and a bias (b). 
 
